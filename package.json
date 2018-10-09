@@ -1,5 +1,6 @@
 {
   "name": "redux-playground",
+  "homepage": "http://robertvogt.ch/redux-state-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
